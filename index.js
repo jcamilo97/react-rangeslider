@@ -1,2 +1,2 @@
-import Rangeslider from './Rangeslider'
+import Rangeslider from './src/Rangeslider'
 export default Rangeslider

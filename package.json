@@ -31,10 +31,6 @@
     "type": "git",
     "url": "https://github.com/whoisandy/react-rangeslider.git"
   },
-  "files": [
-    "lib",
-    "umd"
-  ],
   "keywords": [
     "rangeslider",
     "range-slider",
